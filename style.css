@@ -3,18 +3,18 @@
     padding:0;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/* Fixed background image */
 .background{
  width:100%;
  height:100vh;
- background-image:url(background.jpg);
+ background-image:url(https://ibb.co/KxXSj0c"><img src="https://i.ibb.co/fd2LY1V/background.jpg");
  background-size:cover;
  background-position:center;
     background-repeat:no-repeat;
     position:fixed;
     overflow: scroll;
 }
-
+/* Position and sizing for <div class="navbar"> List and anchor styling below */
 .navbar{
     width: 85%;
     margin: auto;
@@ -41,13 +41,13 @@
     border-radius: 15px;
     padding: 1px;
 }
-    
+ /* mouse cursor to display as pointer when hovering over logo */   
 .logo{
     width:20vw;
     height:auto;
     cursor: pointer;
 }
-
+/* styling for home page. will make sure content in centered using transfor:tranlateY */
 .content{
     width: 99.%; 
     top:50%;
@@ -64,7 +64,7 @@
     padding: 10px; 
     
 }
-
+/* styling for content on other pages. */
 .content-beg {
         width: 99.%; 
     top:50%;
@@ -79,6 +79,7 @@
     border-color: #070433;
     padding: 10px; 
 }
+/* Images will all be 300px wide for consistancy */
 figure img {
     width: 300px;
     height: auto;
