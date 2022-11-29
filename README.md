@@ -32,6 +32,9 @@ In this section, you should go over the different parts of your project, and des
 
 ![Video on website](https://i.ibb.co/tQh3xML/feature-video.jpg)
 
+- __Images and Videos__
+  -Images and Videos on this website are being hosted by an image hosting website. This means they do not take up space in the directory. 
+
 ### Features Left to Implement
 
 In the future I would like to add another page to the site with a gallery of all images used
@@ -57,7 +60,7 @@ I did find a bug that the background didnt always display fully on different scr
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+Deployment was difficult initially with GitHub and Gitpod. GitPod would not allow me to commit or push on my project due to a permission error. This meant that I had to use an external text editor program. I then uploaded the files from my external program to GitHub for deployment. This created issues for my commit history as I could not create and transfer commits to GitHub. This has left my commit history very bare, with only a few large commits for file uploads and edits to some html src links. I have since rectified the permission issue and have been adding commits to my project. I have also commented on the existing commits trying to clarify what was being commited.
 
 - The site was deployed to GitHub pages. I had some extra work to do in order to get my project deployed on GitHub pages as my GitPod and GitHub refused to link together meaning I had to manually upload new files to my Github repository. Once this was done the deployment was quite straight forward. The steps to deploy are as follows: 
 
