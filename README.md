@@ -75,7 +75,7 @@ Repository settings button
 
 -Under "Build and deployment", under "Branch", select main, then save. 
 
-The live link can be found here - https://joshmc-code.github.io/index.html 
+The live link can be found here - https://joshmc-code.github.io/greeves-project/ 
 
 
 ## Credits 
